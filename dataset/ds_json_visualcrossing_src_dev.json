@@ -9,7 +9,7 @@
 			"city": {
 				"type": "string"
 			},
-			"data": {
+			"date": {
 				"type": "string"
 			},
 			"apiKey": {
