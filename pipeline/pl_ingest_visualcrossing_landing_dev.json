@@ -66,7 +66,7 @@
 								"type": "Expression"
 							},
 							"file_name": {
-								"value": "@concat('climapi_',pipeline().parameters.city, '_', formatDateTime(utcNow(), 'yyyyMMddHHmmss'), '.json')",
+								"value": "@toLower(concat('climapi_',pipeline().parameters.city, '_', formatDateTime(utcNow(), 'yyyyMMddHHmmss'), '.json'))",
 								"type": "Expression"
 							}
 						}
