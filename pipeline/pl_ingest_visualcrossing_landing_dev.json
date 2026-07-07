@@ -92,7 +92,7 @@
 					"url": "https://kv-climapi-dev-westus2-1.vault.azure.net/secrets/visualcrossing-api-key-dev/2f5c45f89e9e4a6dbf076cb92128ec56?api-version=2025-07-01",
 					"authentication": {
 						"type": "MSI",
-						"resource": "https://vault.azure.net/.default"
+						"resource": "https://vault.azure.net/"
 					}
 				}
 			}
