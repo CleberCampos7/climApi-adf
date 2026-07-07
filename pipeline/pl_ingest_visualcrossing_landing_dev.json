@@ -45,7 +45,7 @@
 								"value": "@pipeline().parameters.city",
 								"type": "Expression"
 							},
-							"data": {
+							"date": {
 								"value": "@pipeline().parameters.date",
 								"type": "Expression"
 							}
