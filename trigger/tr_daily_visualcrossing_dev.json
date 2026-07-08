@@ -1,0 +1,25 @@
+{
+	"name": "tr_daily_visualcrossing_dev",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2026-07-08T17:56:00",
+				"timeZone": "Bahia Standard Time",
+				"schedule": {
+					"minutes": [
+						10
+					],
+					"hours": [
+						8
+					]
+				}
+			}
+		}
+	}
+}
