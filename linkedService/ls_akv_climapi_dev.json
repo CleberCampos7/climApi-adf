@@ -1,0 +1,10 @@
+{
+	"name": "ls_akv_climapi_dev",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-climapi-dev-westus201.vault.azure.net/"
+		}
+	}
+}
