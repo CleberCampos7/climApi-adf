@@ -5,8 +5,6 @@
 			{
 				"name": "copy_visualcrossing_to_landing",
 				"type": "Copy",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "web_get_apikey",
